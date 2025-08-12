@@ -20,7 +20,7 @@ def clean_text(text):
 
 st.title("Headphone Reviews Phrase Analyzer")
 
-df = pd.read_csv('/Users/yashashari/Desktop/Prod_Review/Data/Reviews.csv')
+df = pd.read_csv('Data/Reviews.csv')
 
 df['clean'] = df['content'].apply(clean_text)
 
