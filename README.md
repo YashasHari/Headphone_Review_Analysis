@@ -40,7 +40,11 @@ This helps identify frequent customer sentiments and common features mentioned.
   - scikit-learn
   - matplotlib
   - seaborn
-  - nltk  
+  - nltk
+
+## Live Demo
+- Try the app online here:
+  [Headphone Reviews Phrase Analyzer](https://headphone-review-analysis.streamlit.app/)
 
 ## Notes
 
