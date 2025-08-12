@@ -1,7 +1,7 @@
 # Headphone Reviews Phrase Analyzer
 
 A Streamlit app that analyzes headphone reviews by extracting and visualizing the most common 2- and 3-word phrases from the review content. 
-This helps identify frequent customer sentiments and common features mentioned.
+This helps to identify frequent customer sentiments and common features mentioned.
 
 ---
 
