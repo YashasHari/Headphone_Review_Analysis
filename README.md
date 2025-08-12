@@ -50,6 +50,13 @@ This helps identify frequent customer sentiments and common features mentioned.
 
 - The app downloads NLTK stopwords on first run.
 - Dataset path in app.py is currently an absolute local path; update before deployment.
+
+## About me
+
+Feel free to reach out!
+
+- 📧 [Email](mailto:vhyashas@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/v-h-yashas/)
    
    
    
